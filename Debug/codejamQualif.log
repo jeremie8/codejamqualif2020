@@ -1,0 +1,3 @@
+﻿  codejamQualif.cpp
+C:\Users\jerem\source\repos\codejamQualif\codejamQualif.cpp(42,25): warning C4018: '>=': signed/unsigned mismatch
+  codejamQualif.vcxproj -> C:\Users\jerem\source\repos\codejamQualif\Debug\codejamQualif.exe
